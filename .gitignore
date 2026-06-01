@@ -1,0 +1,16 @@
+# MATLAB / GNU Octave
+*.asv
+*.m~
+octave-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Generated temporary output
+tmp/
+temp/
